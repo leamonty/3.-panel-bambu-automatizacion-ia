@@ -14,5 +14,9 @@ Este proyecto consiste en un sistema de automatización inteligente desarrollado
 * `/flujo`: Archivo JSON exportado listo para ser importado en n8n.
 * `/documentacion`: Archivos de configuración técnica y registros de claves (excluidos del repositorio público).
 
+* ## 📺 Demostración en Video
+Puedes ver el funcionamiento del sistema en tiempo real haciendo [clic aquí para ver el video demostrativo](https://drive.google.com/file/d/1lffuHetxYgdPnaR6EjF5Qh03BLuY0Ant/view?usp=sharing).
+
+
 ## 👥 Autor
 * **Leandro Montenegro** - *Desarrollador del Proyecto de Automatización*
